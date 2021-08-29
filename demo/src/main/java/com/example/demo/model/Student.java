@@ -2,8 +2,6 @@ package com.example.demo.model;
 
 import com.example.demo.enums.Gender;
 
-
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
